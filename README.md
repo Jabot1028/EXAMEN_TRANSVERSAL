@@ -1,2 +1,2 @@
 # EXAMEN_TRANSVERSAL
-apretar en "see raw" para que se descargue el archivo
+apretar en "view raw" para que se descargue el archivo
